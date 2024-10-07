@@ -1,1 +1,3 @@
 # odin-recipes
+This is a HTML project to demonstrate my current knowledge and
+ability to integrate basic HTML coding language. It demonstrates my ability to use the HTML boilerpage, various headings, paragraph formats, source images, house hyperlinks, and integrate ordered and unordered lists in a website. Here I have learned how to correctly navigate my terminal and organize my directory appropriately without creating error. 
