@@ -1,0 +1,39 @@
+h1 {
+  font-family: "Sans-serif", Helvetica, serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 38px;
+  color: orange;
+}
+
+p {
+  font-family: "Sans-serif", Helvetica, serif;
+}
+
+img {
+  border-radius: 8px;
+}
+
+.reference {
+  text-align: center;
+}
+
+.intro#heading {
+  font-family: "Sans-serif", Helvetica, serif;
+  text-align: center;
+  font-size: 32px;
+  color: orange;
+}
+
+.list {
+  font-family: "Sans-serif", Helvetica, serif;
+  list-style-position: inside;
+  font-size: 25px;
+}
+
+.list .contents {
+  font-family: "Sans-serif", Helvetica, serif;
+  list-style-position: inside;
+  font-size: 18px;
+  font-weight: lighter;
+}

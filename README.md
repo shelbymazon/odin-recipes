@@ -1,2 +1,4 @@
 # odin-recipes
 Through a simple recipe page(and my first project), this HTML project demonstrates my current knowledge and ability to integrate basic HTML coding language. Portraying my ability to use the HTML boilerplate, various headings, paragraph formats (including bold and italicized), source images, enter comments, house links (relative and absolute), and integrate ordered and unordered lists in a website. In addition I have learned how to correctly navigate my terminal and organize my directory appropriately without creating error. I have learned how to create and commit projects to my GitHub through my terminal.
+
+In addition I have added basic external (and internal)CSS style sheets for the index.html and all additional pages. In each CSS file, you will find varying fonts, sizing, images, colors, and alternate selectors (ID's, class, type) while using specificity to avoid the cascade of CSS.
