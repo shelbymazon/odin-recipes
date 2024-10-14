@@ -2,18 +2,26 @@ h1 {
     font-family: "Sans-serif", Helvetica,
     serif;
     text-align: center;
-    font-weight: bold;
-    font-size: 38px;
+    font-size: 50px;
+    background-color: beige;
+    padding: 12px;
+    box-sizing: content-box;
+    width: 40%;
 }
 
 p {
     font-family: "Sans-serif", Helvetica,
     serif;
     text-align: center;
+    display: block;
+    font-size: larger;
 }
 
 img {
     border-radius: 8px;
+    margin: 0 auto;
+    padding: 20px;
+    margin: 20px 100px;
   }
 
 
@@ -22,4 +30,29 @@ img {
     serif;
     text-align: center;
     list-style-position: inside;
+}
+
+button {
+    font-family: "Sans-serif", Helvetica,
+    serif;
+    padding: 8px 16px;
+    margin: 10px;
+    background-color:bisque;
+    border-color: grey;
+    font-weight: 600;
+    width: 250px;
+    
+}
+
+ button.one {
+    background: orange;
+    
+}
+
+button.two {
+    background: rgb(229, 185, 129)
+}
+
+button.three {
+    background: pink
 }
